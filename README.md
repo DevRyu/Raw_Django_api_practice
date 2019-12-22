@@ -1,2 +1,2 @@
-# Raw_Django_api_practice
+# Toy_Raw_api_practice_Django
 ![Alt Text](https://media.giphy.com/media/ftNRL6lyYjstJwHduf/giphy.gif)    
